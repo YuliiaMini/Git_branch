@@ -1,0 +1,38 @@
+ID 0616750
+Summary - The feedback form is not opened after clicking the "Обратная связь" button
+Project - https://multiplex.ua/
+Reproducibility - Always
+Workaround - No
+Priority - Low
+Severity - Minor
+Status - Opened
+Author - Minienok Y
+Assigned To - Ivanov I.
+
+Description 
+The feedback form is not opened after clicking the "Обратная связь" button.
+Exp: The feedback form or contact information is dispayed on the site after clicking the "Обратная связь" button.
+Act: The feedback form is not opened after clicking the "Обратная связь" button.
+
+Steps to reproduce 
+1) go to the site https://multiplex.ua/;
+2) click on the drop-down menu in the upper left corner of te page
+3) click on the "О компании" button
+4) click on the "обратная связь" button
+5) pay attention to the page
+
+Additional information - no[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B00000000000000000[C[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[B[A[B:q!
+
+[A[A[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[D[D[D[D[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[D[B[C[C[C[C[C[C[A[A[C[A[C[C[C[C[C[C[C[A[C[C[C[C[A[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C
+[C[C[C[C[C[C[C
+[B[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C
+[B[C[C[C[C[C[C[C[C
+[B[A[C[C[C[C[C[C
+[C[C[C[C[C[C
+[B[A[C[C[C[C[C[C[C[C[C[C[C
+[B[C[C[C[C[C[C[C[C[C[C[C
+[B[C[C[C[C
+[B[B[A[C[C[C[C
+[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
